@@ -8,10 +8,10 @@ I'm a Software Engineer.
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/Her
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning Reactjs, and Vuejs.
+- 💡 I'm an AltSchool Africa graduate [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 🌱 Fun fact: I'm always excited to code and learn. My mainstack is Reactjs.
 - 😊 I’m interested in open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front-end Engineer, (Intern or Junior level).
-- 📫 You can contact me by emailing Obaditanbusola@gmail.com
+- 💼 Job interests: Software Engineering, Front-end Engineering, (Intern or Junior level).
+- 📫 You can contact me by email: Obaditanbusola@gmail.com
 ---
 
